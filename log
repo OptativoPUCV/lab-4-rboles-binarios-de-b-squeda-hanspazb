@@ -45,3 +45,9 @@ lu., 22 de sep. de 2025  0:07:57:
  tests:  25|1
 total_score: 60/70
 d685e60
+lu., 22 de sep. de 2025  0:21:21: 
+ treemap.c | 19 ++++++++++++++++++-
+ 1 file changed, 18 insertions(+), 1 deletion(-)
+ tests:  29|0
+total_score: 70/70
+6f05006
